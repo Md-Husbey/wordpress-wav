@@ -1,0 +1,30 @@
+/*================================
+Theme Name: mdhusbey
+Theme URI: https://mondaysys.com/
+Version: 1.0.1
+Author: Md HUsbey
+Author URI: https://mondaysys.com/
+
+Text Domain: mdhusbey
+Requires at least: 5.3
+Tested up to: 5.8
+Requires PHP: 5.6
+Description: We are learning WordPress theme development.
+Tags: one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready, block-patterns
+=================================*/
+body {
+}
+.alignleft {
+}
+.alignright {
+}
+.aligncenter {
+}
+.wp-caption {
+}
+.wp-caption-text {
+}
+.gallery-caption {
+}
+.screen-reader-text {
+}
