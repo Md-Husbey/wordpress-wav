@@ -1,14 +1,16 @@
 /*=======================================
  Common CSS
 ========================================*/
+
 :root {
-  --pink: #ea1a70;
+  --pink: #ff006a;
 }
 
 body {
   font-family: "Roboto", sans-serif;
   font-size: 15px;
   line-height: 1.5em;
+  background-color: #6f7470;
 }
 p {
   font-family: "Roboto", sans-serif;
@@ -100,7 +102,7 @@ input[type="submit"].submit:hover {
 }
 #header_area .col-md-9 ul li a:hover {
   background: var(--pink);
-  color: #fff;
+  color: #eee6e6;
 }
 
 /*Dropdown Menu*/
@@ -197,7 +199,7 @@ input[type="submit"].submit:hover {
   padding: 45px 0;
 }
 #body_area .blog_area {
-  width: 100%;
+  width: 140%;
   margin-bottom: 20px;
   background: #fff;
   padding: 15px;
@@ -230,7 +232,9 @@ input[type="submit"].submit:hover {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 30px;
+  display: none; /*display home paje none*/
 }
+
 #body_area .post_details h2 a {
   color: #262626;
   text-decoration: none;
